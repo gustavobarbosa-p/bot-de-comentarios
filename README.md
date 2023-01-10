@@ -1,4 +1,4 @@
-# Bot de comentários
+# Bot de comentários 🤖
 
 Bot simples feito em python utilizando a biblioteca pyautogui que comenta automaticamente em sorteios do instagram. (Dado uma lista de vários amigos para uma quantidade limitada de amigos marcados por comentário o bot irá marcar estes de forma aleatória)
 
