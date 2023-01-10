@@ -10,10 +10,10 @@ pip install pyautogui
 ```
 e logo após execute o arquivo main.py. Tudo feito, você deve informar quais são os amigos (@) que serão marcados, quantos amigos por comentário o bot irá marcar e o tempo de espera (em segundos) que o bot vai dar a cada publicação de comentário.
 
-Feito o que foi pedido e com seu instagram aberto no post desejado, aperte a tecla ```enter```  e clique na caixa de comentários. Pronto, o bot vai começar com uma espera de 5 segundos e após isso irá marcar os amigos que você informou de forma aleatória. ✅
+Feito o que foi pedido e com seu instagram aberto no post desejado, aperte a tecla ```enter```  e clique na caixa de comentários. Pronto, o bot vai começar com uma espera de 5 segundos e após isso irá marcar os amigos que você informou de forma aleatória ✅
 
 ### Observações ℹ️
-1. A cada 60 comentários o bot faz uma pausa preventiva de 1h para que o instagram não bloqueie sua conta;🔒
+1. A cada 60 comentários o bot faz uma pausa preventiva de 1h para que o instagram não bloqueie sua conta 🔒
 
 2. Caso deseje gerar um executável instale a biblioteca <strong>pyinstaller</strong> usando o comando
 ```
